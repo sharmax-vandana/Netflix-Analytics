@@ -1,4 +1,4 @@
-# Netflix-Analytics
+# Netflix-Analytics : [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5lle2eKn7sITaaWoTirFO19yHhpB9Lq?usp=sharing)
 # 🎬 Netflix User Analytics
 
 A machine learning project analyzing Netflix subscriber behaviour to predict **subscription renewal** and **monthly spending** using Decision Tree, KNN, and Linear Regression.
